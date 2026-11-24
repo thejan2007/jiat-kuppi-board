@@ -96,3 +96,7 @@ php artisan kuppi:ask "Java OOP kiyanne mokakda?"
 ## Team
 
 Built by **Team Merlin** for JIAT Hack Days Gampaha 2026.
+## My Contribution (Hackathon)
+- Connected external/backend **API** endpoints and handled data rendering in the UI.
+- Designed and built key **UI sections/components** for a clean user experience.
+- Built during **JIAT FOSS Hack Day** with **Team Merlin** (Original Repo: `JustXSade/jiat-kuppi-board`).
